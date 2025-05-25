@@ -1,5 +1,5 @@
 # Data files (if large)
-data/raw/*.csv
+# data/raw/*.csv
 
 # Model files
 *.h5
