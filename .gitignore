@@ -1,0 +1,13 @@
+# Data files (if large)
+data/raw/*.csv
+
+# Model files
+*.h5
+*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+venv/
